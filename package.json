@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Files for the ACLS site",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "node js/app.js"
+  },
+  "author": "Sean Baldwin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
+}
